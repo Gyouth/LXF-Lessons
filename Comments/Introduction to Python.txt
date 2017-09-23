@@ -1,0 +1,7 @@
+Python:
+
+1. Created by Guido van Rossum.
+2. Python is a popular advanced programming language, suitble to develop application program.
+3. Python has many fundmental built-in packages, and a lot of third-party packages.
+4. Python can be used to develop web application, including website and back-end server, and tools like scripts.
+5. Python's disadvantages: low runnig speed and source code cannot be encrypted.
