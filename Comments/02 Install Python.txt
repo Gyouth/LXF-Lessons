@@ -1,0 +1,2 @@
+1. Run Python on Windows with commond "python *.py";
+2. Exit Python interactive environment with function "exit()";
