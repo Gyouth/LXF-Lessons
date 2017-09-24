@@ -1,0 +1,13 @@
+1. Computer can handle number only, and text has to be converted to numbers.
+2. ASCII use 1 byte (8 bits) to represpent a char.
+3. Chinese encoding - GB2312.
+4. Universal encoding - Unicode uses 2 bytes to represpent a char.
+5. Text editor or commond window (str) has one encoding. When the text is saved or tranmitted, another encoding has to be used. When reading the pre-saved text to python (str), the saving encoding must be prescribed to read the text correctly.
+6. The variable encoding - utf-8 uses 1 byte to represpent English char and 3 bytes to represpent Chinese char in most cases.
+7. Figures in "https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/001431664106267f12e9bef7ee14cf6a8776a479bdec9b9000#0"
+8. Unicode is used in Python (str). When saved to file or transfered online, it has to be convert 'bytes'.
+9. Data of 'bytes' type is represented by "b'*'".
+10. Str--->encode--->bytes.
+11. Bytes--->decode--->str.
+12. '{:s}-{:d}'.format('ABC',100) <=>'%s-%d' % ('ABC',100).
+13. %d; %f; %s; %x; %2d; %02d; %.2f.
