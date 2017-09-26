@@ -67,3 +67,61 @@
 # print('Age: {:d}. Gender: {:s}'.format(25, 'Male'))
 # print('growth rate: {:d}%'.format(7))
 # print('{:.1f}%'.format((85-72)/72*100))
+
+# classmates = ['Michael', 'Bob', 'Tracy']
+# print(classmates)
+# print(len(classmates))
+# print(classmates[0])
+# print(classmates[1])
+# print(classmates[2])
+# print(classmates[-1])
+# print(classmates[-2])
+# print(classmates[-3])
+# classmates.append('Adam')
+# print(classmates)
+# classmates.insert(1, 'Jack')
+# print(classmates)
+# classmates.pop()
+# print(classmates)
+# classmates.pop(1)
+# print(classmates)
+# classmates[1] = 'Sarah'
+# print(classmates)
+# L = ['Apple', 123, True]
+# print(L)
+# s = ['Python', 'Java', ['asp', 'php'], 'scheme']
+# print(len(s))
+# t = (1)
+# print(t)
+# t = (1,)
+# print(t)
+# t = ('a', 'b', ['A', 'B'])
+# t[2][0] = 'X'
+# t[2][1] = 'Y'
+# print(t)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
