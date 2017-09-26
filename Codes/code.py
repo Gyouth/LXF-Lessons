@@ -99,29 +99,71 @@
 # t[2][0] = 'X'
 # t[2][1] = 'Y'
 # print(t)
+# names = ['Michael', 'Bob', 'Tracy']
+# for name in names:
+# 	print(name)
+
+# sum = 0
+# for x in range(101):
+# 	sum = sum + x
+# print(sum)
 
 
+# sum = 0
+# n = 99
+# while n>0:
+# 	sum = sum  + n
+# 	n = n - 2
+# 	# pass
+# print(sum)
+
+# L = ['Bart', 'Lisa', 'Adam']
+# for name in L:
+# 	print('Hello, ', name)
+
+# n = 1
+# while n <= 100:
+# 	if n > 10:
+# 		break
+# 	print(n)
+# 	n = n + 1
+# 	# pass
 
 
+# n = 0
+# while n < 10:
+# 	n = n + 1
+# 	if n % 2 == 0:
+# 		continue
+# 	# pass
+# 	print(n)
 
+# d = {'Michael': 95, 'Bob': 75, 'Tracy': 85}
+# print(d['Michael'])
+# d['Adam'] = 75
+# d['Jack'] = 90
+# d['Jack'] = 88
+# # print(d)
+# # b = 'Tomas' in d
+# # print(b)
+# print(d.get('Tomas', -1))
+# d.pop('Bob')
+# print(d)
 
+# s = set([1, 2, 3])
+# s = set([1, 1, 2, 3])
+# s.add(4)
+# s.remove(4)
+# print(s)
 
+# s1 = set([1, 2, 3])
+# s2 = set([2, 3, 4])
+# s_and = s1 & s2
+# print(s_and)
+# s_com = s1 | s2
+# print(s_com)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+a = 'abc'
+b = a.replace('a', 'A')
+print(b)
+print(a)
